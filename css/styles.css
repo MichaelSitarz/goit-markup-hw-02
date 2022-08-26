@@ -160,6 +160,7 @@ body {
   background: #f5f4fa;
   border: none;
   cursor: pointer;
+  background-color: #ffffff;
 }
 
 .button-list-item:hover {
